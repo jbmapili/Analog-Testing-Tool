@@ -127,3 +127,27 @@ C:\Users\pc\Desktop\Currently Creating\Analog Data Input PC-DCS Tool - Copy\PCDC
 C:\Users\pc\Desktop\Currently Creating\Analog Data Input PC-DCS Tool - Copy\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS Testing Tool.csproj.GenerateResource.Cache
 C:\Users\pc\Desktop\Currently Creating\Analog Data Input PC-DCS Tool - Copy\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS Testing Tool.csprojResolveAssemblyReference.cache
 C:\Users\pc\Desktop\Currently Creating\Analog Data Input PC-DCS Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS Testing Tool.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Currently Creating\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\PCDCS_AnalogValueTester.exe.config
+C:\Users\pc\Desktop\Currently Creating\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.exe
+C:\Users\pc\Desktop\Currently Creating\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.pdb
+C:\Users\pc\Desktop\Currently Creating\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\PCDCS_AnalogValueTester.exe
+C:\Users\pc\Desktop\Currently Creating\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\PCDCS_AnalogValueTester.pdb
+C:\Users\pc\Desktop\Currently Creating\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\DxpSimpleAPI.dll
+C:\Users\pc\Desktop\Currently Creating\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\pc\Desktop\Currently Creating\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\pc\Desktop\Currently Creating\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.AnalogValueTester.resources
+C:\Users\pc\Desktop\Currently Creating\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.Properties.Resources.resources
+C:\Users\pc\Desktop\Currently Creating\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS Testing Tool.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Currently Creating\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS Testing Tool.csprojResolveAssemblyReference.cache
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\PCDCS_AnalogValueTester.exe.config
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.exe
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.pdb
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\PCDCS_AnalogValueTester.exe
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\PCDCS_AnalogValueTester.pdb
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\DxpSimpleAPI.dll
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS Testing Tool.csprojResolveAssemblyReference.cache
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.AnalogValueTester.resources
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS_AnalogValueTester.Properties.Resources.resources
+C:\Users\pc-dcs\Documents\Visual Studio 2013\Projects\Analog Testing Tool\PCDCS Testing Tool\PCDCS Testing Tool\obj\Debug\PCDCS Testing Tool.csproj.GenerateResource.Cache
